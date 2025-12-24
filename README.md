@@ -1,3 +1,3 @@
-# LilyPond Interface
+# LilyPond Interace
 
-An interactive approach to composing with LilyPond.
+Composing with LilyPond via the web.
